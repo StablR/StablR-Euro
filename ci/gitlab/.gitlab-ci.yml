@@ -19,6 +19,8 @@ variables:
     description: "The BIP39 Mnemonic Phrase"
   INFURA_KEY:
     description: "Infura Access Key"
+  ETHERSCAN_API_KEY:
+    description: "Etherscan API Key"
   APPEND_NAME:
     value: "Bin"
     description: "Append the token name (Used to indentify test contract)"
